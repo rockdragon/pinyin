@@ -1,3 +1,4 @@
+"use strict";
 module.exports = {
 "èr":"二贰",
 "shí":"十时实蚀",

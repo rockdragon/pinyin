@@ -1,6 +1,6 @@
 {
-  "name": "pinyin",
-  "version": "2.7.1",
+  "name": "pinyin-es5",
+  "version": "0.0.1",
   "description": "汉语拼音转换工具。",
   "files": [
     "bin",
@@ -16,7 +16,7 @@
     "中文",
     "Pinyin"
   ],
-  "homepage": "http://pinyin.hotoo.me/",
+  "homepage": "https://github.com/rockdragon/pinyin",
   "author": "闲耘 <hotoo.cn@gmail.com>",
   "main": "lib/index.js",
   "bin": {
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hotoo/pinyin.git"
+    "url": "https://github.com/rockdragon/pinyin.git"
   },
   "bugs": {
-    "url": "https://github.com/hotoo/pinyin/issues"
+    "url": "https://github.com/rockdragon/pinyin/issues"
   },
   "scripts": {
     "test": "make test"
