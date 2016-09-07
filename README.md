@@ -1,26 +1,14 @@
-# 汉字拼音转换工具。
+# 汉字拼音转换工具（ES5版本）。
 
 ---
 
 [![NPM version][npm-badge]][npm-url]
-[![spm version][spm-badge]][spm-url]
-[![Build Status][travis-badge]][travis-url]
-[![Coverage Status][coveralls-badge]][coveralls-url]
-[![Gittip][gittip-image]][gittip-url]
 [![NPM downloads][npm-downloads]][npm-url]
 
 
-[npm-badge]: https://img.shields.io/npm/v/pinyin.svg?style=flat
-[npm-url]: https://www.npmjs.com/package/pinyin
-[npm-downloads]: http://img.shields.io/npm/dm/pinyin.svg?style=flat
-[spm-badge]: http://spmjs.io/badge/pinyin
-[spm-url]: http://spmjs.io/package/pinyin
-[travis-badge]: https://travis-ci.org/hotoo/pinyin.svg?branch=master
-[travis-url]: https://travis-ci.org/hotoo/pinyin
-[coveralls-badge]: https://coveralls.io/repos/hotoo/pinyin/badge.svg?branch=master
-[coveralls-url]: https://coveralls.io/r/hotoo/pinyin
-[gittip-image]: https://img.shields.io/gittip/hotoo.svg?style=flat-square
-[gittip-url]: https://www.gittip.com/hotoo/
+[npm-badge]: https://img.shields.io/npm/v/pinyin-es5.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/pinyin-es5
+[npm-downloads]: http://img.shields.io/npm/dm/pinyin-es5.svg?style=flat
 
 [English Documention](README-us_EN.md)
 
@@ -44,13 +32,7 @@
 via npm:
 
 ```bash
-npm install pinyin
-```
-
-via spm:
-
-```bash
-spm install pinyin
+npm install pinyin-es5
 ```
 
 ## 用法
